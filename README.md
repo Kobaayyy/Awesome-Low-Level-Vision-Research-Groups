@@ -1,7 +1,10 @@
 # Awesome-Low-Level-Vision-Research-Groups[![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
 
 A Collection of Low Level Vision Research Groups
-收集了国内外做底层视觉相关研究的团队如下，如有帮助欢迎star~
+
+**Please feel free to star, fork or PR if helpful~**
+
+**收集了国内外做底层视觉相关研究的团队如下，欢迎star，fork和PR~**
 
 # China(国内)：
 
@@ -21,13 +24,14 @@ A Collection of Low Level Vision Research Groups
 - [Yuming Fang-JUFE(方玉明团队-江西财经大学)](http://sim.jxufe.cn/JDMKL/ymfang_EN.html)
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Jiaya Jia-CUHK(贾佳亚团队-香港中文大学)](https://jiaya.me/)
+- [Shuhang Gu-UESTC(顾舒航-电子科技大学)](https://shuhanggu.github.io/)
 
 # Others(国外)：
 
 - [Chen Change Loy-NTU](https://www.mmlab-ntu.com/person/ccloy/index.html)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
-- [Radu Timofte-Y-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
+- [Radu Timofte-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
 - [Michael S. Brown-YorkU](https://www.eecs.yorku.ca/~mbrown/)
 - [Weisi Lin-NTU](https://personal.ntu.edu.sg/wslin/Home.html)
 - [Vishal M Patel-JHU](https://engineering.jhu.edu/vpatel36/)
@@ -36,4 +40,16 @@ A Collection of Low Level Vision Research Groups
 - [Zhou Wang-University of Waterloo](https://ece.uwaterloo.ca/~z70wang/)
 - [Humphrey Shi-University of Oregon](https://www.shi-labs.com/#page-top)
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
+- [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
 
+
+
+
+
+
+# Related Collections(相关底层视觉整理)：
+
+- [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
+
+- [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
+- [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
