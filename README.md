@@ -24,7 +24,7 @@ A Collection of Low Level Vision Research Groups
 - [Yuming Fang-JUFE(方玉明团队-江西财经大学)](http://sim.jxufe.cn/JDMKL/ymfang_EN.html)
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Jiaya Jia-CUHK(贾佳亚团队-香港中文大学)](https://jiaya.me/)
-- [Shuhang Gu-UESTC(顾舒航-电子科技大学)](https://shuhanggu.github.io/)
+- [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
 
 # Others(国外)：
 
@@ -41,6 +41,7 @@ A Collection of Low Level Vision Research Groups
 - [Humphrey Shi-University of Oregon](https://www.shi-labs.com/#page-top)
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
+- [Chang-Su Kim-Korea University](http://mcl.korea.ac.kr/)
 
 
 
