@@ -25,6 +25,8 @@ A Collection of Low Level Vision Research Groups
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Jiaya Jia-CUHK(贾佳亚团队-香港中文大学)](https://jiaya.me/)
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
+- [Weisheng Dong-XDU(董伟生团队-西安电子科技大学)](https://see.xidian.edu.cn/faculty/wsdong/)
+- [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
 
 # Others(国外)：
 
@@ -42,6 +44,18 @@ A Collection of Low Level Vision Research Groups
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
 - [Chang-Su Kim-Korea University](http://mcl.korea.ac.kr/)
+- [Hanspeter Pfister-Harvard University](https://vcg.seas.harvard.edu/)
+- [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
+
+
+
+
+
+# Related Collections(相关底层视觉整理)
+
+- [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
+- [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
+- [Awesome-ICCV2021-Low-Level-Vision](
 
 
 
