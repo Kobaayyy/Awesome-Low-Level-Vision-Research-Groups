@@ -27,6 +27,8 @@ A Collection of Low Level Vision Research Groups
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
 - [Weisheng Dong-XDU(董伟生团队-西安电子科技大学)](https://see.xidian.edu.cn/faculty/wsdong/)
 - [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
+- [Junjun Jiang-HIT(江俊君团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/jiangjunjun)
+
 
 # Others(国外)：
 
