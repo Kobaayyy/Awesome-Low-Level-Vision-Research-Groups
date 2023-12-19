@@ -12,6 +12,10 @@ A Collection of Low Level Vision Research Groups
 
 - [Zhou Wang-University of Waterloo](https://ece.uwaterloo.ca/~z70wang/)
 
+#### YU(约克大学)
+
+- [Michael S. Brown-YorkU](https://www.eecs.yorku.ca/~mbrown/)
+
 # China(中国)
 
 ### Hong Kong(香港)
@@ -112,16 +116,35 @@ A Collection of Low Level Vision Research Groups
 
 - [Chang-Su Kim-Korea University](http://mcl.korea.ac.kr/)
 
+#### SNU(首尔大学)
+
+- [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
+
 # United States(美国)
 
-- [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
-- [Michael S. Brown-YorkU](https://www.eecs.yorku.ca/~mbrown/)
-- [Vishal M Patel-JHU](https://engineering.jhu.edu/vpatel36/)
-- [Yun Raymond Fu-NEU](http://www1.ece.neu.edu/~yunfu/)
-- [Humphrey Shi-University of Oregon](https://www.shi-labs.com/#page-top)
-- [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
+#### Harvard(哈佛大学)
+
 - [Hanspeter Pfister-Harvard University](https://vcg.seas.harvard.edu/)
-- [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
+
+#### JHU(约翰霍普金斯大学)
+
+- [Vishal M Patel-JHU](https://engineering.jhu.edu/vpatel36/)
+
+#### NEU(东北大学)
+
+- [Yun Raymond Fu-NEU](http://www1.ece.neu.edu/~yunfu/)
+
+#### UC Merced(加州大学默塞德)
+
+- [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
+
+#### UO(俄勒冈大学)
+
+- [Humphrey Shi-University of Oregon](https://www.shi-labs.com/#page-top)
+
+#### UT Austin(德州大学奥斯汀)
+
+- [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
 
 # Europe(欧洲)
 
