@@ -8,7 +8,11 @@ A Collection of Low Level Vision Research Groups
 
 # Canada(加拿大)
 
-#### University of Waterloo(滑铁卢大学)
+#### SFU(西蒙菲沙大学)
+
+- [Yağız Aksoy](https://yaksoy.github.io/)
+
+#### UWaterloo(滑铁卢大学)
 
 - [Zhou Wang-University of Waterloo](https://ece.uwaterloo.ca/~z70wang/)
 
@@ -59,6 +63,7 @@ A Collection of Low Level Vision Research Groups
 
 #### PKU(北京大学)
 
+- [Boxin Shi-PKU(施柏鑫团队-北京大学)](https://ci.idm.pku.edu.cn/index.htm)
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Jiaying Liu-PKU(刘家瑛团队-北京大学)](http://39.96.165.147/struct.html)
 
@@ -73,7 +78,7 @@ A Collection of Low Level Vision Research Groups
 
 #### SIAT(中科院深圳先进技术研究院)
 
-- [Chao Dong-SIAT(董超团队-中科院深圳先研院)](http://xpixel.group/index.html)
+- [Chao Dong-SIAT(董超团队-中科院深圳先进技术研究院)](http://xpixel.group/index.html)
 
 #### SYSU(中山大学)
 
@@ -86,6 +91,10 @@ A Collection of Low Level Vision Research Groups
 #### XDU(西安电子科技大学)
 
 - [Weisheng Dong-XDU(董伟生团队-西安电子科技大学)](https://see.xidian.edu.cn/faculty/wsdong/)
+
+#### XIOPM(中科院西安光学精密机械研究所)
+
+- [An Pan-XIOPM(潘安团队-中科院西安光学精密机械研究所)](http://www.piclaboratory.com/col.jsp?id=113)
 
 #### XJTU(西安交通大学)
 
@@ -120,7 +129,17 @@ A Collection of Low Level Vision Research Groups
 
 - [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
 
+# United Kingdom(英国)
+
+#### Oxford(牛津大学)
+
+- [VGG](https://www.robots.ox.ac.uk/~vgg/)
+
 # United States(美国)
+
+#### Columbia(哥伦比亚大学)
+
+- [Shree K. Nayar](https://www.cs.columbia.edu/~nayar/)
 
 #### Harvard(哈佛大学)
 
@@ -133,6 +152,18 @@ A Collection of Low Level Vision Research Groups
 #### NEU(东北大学)
 
 - [Yun Raymond Fu-NEU](http://www1.ece.neu.edu/~yunfu/)
+
+#### Princeton(普林斯顿大学)
+
+- [Felix Heide](https://www.cs.princeton.edu/~fheide/)
+
+#### Stanford(斯坦福大学)
+
+- [Gordon Wetzstein](https://web.stanford.edu/~gordonwz/)
+
+#### UC Berkeley(加州大学伯克利)
+
+- [Alexei (Alyosha) Efros](https://people.eecs.berkeley.edu/~efros/)
 
 #### UC Merced(加州大学默塞德)
 
