@@ -104,6 +104,16 @@ A Collection of Low Level Vision Research Groups
 
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
 
+# Europe(欧洲)
+
+#### ETH Zurich(苏黎世联邦理工学院)
+
+- [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
+
+#### University of Würzburg(维尔茨堡大学)
+
+- [Radu Timofte-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
+
 # Singapore(新加坡)
 
 #### NTU(南洋理工大学)
@@ -149,6 +159,10 @@ A Collection of Low Level Vision Research Groups
 
 - [Vishal M Patel-JHU](https://engineering.jhu.edu/vpatel36/)
 
+#### MIT(麻省理工学院)
+
+- [William T. Freeman](http://billf.mit.edu/about/bio)
+
 #### NEU(东北大学)
 
 - [Yun Raymond Fu-NEU](http://www1.ece.neu.edu/~yunfu/)
@@ -165,6 +179,10 @@ A Collection of Low Level Vision Research Groups
 
 - [Alexei (Alyosha) Efros](https://people.eecs.berkeley.edu/~efros/)
 
+#### UCLA(加州大学洛杉矶)
+
+- [Achuta Kadambi](https://visual.ee.ucla.edu/)
+
 #### UC Merced(加州大学默塞德)
 
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
@@ -176,13 +194,3 @@ A Collection of Low Level Vision Research Groups
 #### UT Austin(德州大学奥斯汀)
 
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
-
-# Europe(欧洲)
-
-#### ETH Zurich(苏黎世联邦理工学院)
-
-- [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
-
-#### University of Würzburg(维尔茨堡大学)
-
-- [Radu Timofte-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
