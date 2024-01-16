@@ -88,6 +88,10 @@ A Collection of Low Level Vision Research Groups
 
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
 
+#### WHU(武汉大学)
+
+- [Chunxia Xiao-WHU(肖春霞团队-武汉大学)](http://graphvision.whu.edu.cn/)
+
 #### XDU(西安电子科技大学)
 
 - [Weisheng Dong-XDU(董伟生团队-西安电子科技大学)](https://see.xidian.edu.cn/faculty/wsdong/)
