@@ -53,6 +53,10 @@ A Collection of Low Level Vision Research Groups
 
 - [Mai Xu-BUAA(徐迈团队-北京航空航天大学)](http://www.buaamc2.net/index.html)
 
+#### DLUT(大连理工大学)
+
+- [Risheng Liu-DLUT(刘日升团队-大连理工大学)](https://rsliu.tech/)
+
 #### NJUST(南京理工大学)
 
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
