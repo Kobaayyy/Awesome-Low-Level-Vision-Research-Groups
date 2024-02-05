@@ -4,11 +4,9 @@ A Collection of Low Level Vision Research Groups
 
 **Please feel free to star, fork or PR if helpful~**
 
-**收集了国内外做底层视觉相关研究的团队如下，欢迎star，fork和PR~**
-
+**收集了国内外做底层视觉相关研究的团队(谷歌学术引用5000+)如下，欢迎star，fork和PR~**
 # Canada(加拿大)
 
-- [Yağız Aksoy-SFU](https://yaksoy.github.io/)
 - [Zhou Wang-University of Waterloo](https://ece.uwaterloo.ca/~z70wang/)
 - [Michael S. Brown-YorkU](https://www.eecs.yorku.ca/~mbrown/)
 
@@ -38,11 +36,14 @@ A Collection of Low Level Vision Research Groups
 - [Chao Dong-SIAT(董超团队-中科院深圳先进技术研究院)](http://xpixel.group/index.html)
 - [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
-- [Chunxia Xiao-WHU(肖春霞团队-武汉大学)](http://graphvision.whu.edu.cn/)
 - [Weisheng Dong-XDU(董伟生团队-西安电子科技大学)](https://see.xidian.edu.cn/faculty/wsdong/)
-- [An Pan-XIOPM(潘安团队-中科院西安光学精密机械研究所)](http://www.piclaboratory.com/col.jsp?id=113)
 - [Deyu Meng-XJTU(孟德宇团队-西安交通大学)](https://gr.xjtu.edu.cn/web/dymeng)
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
+
+### Taiwan(台湾)
+- [Chia-Wen Lin-NTHU(林嘉文团队-国立清华大学)](https://www.ee.nthu.edu.tw/cwlin/)
+
+
 
 # Germany(德国)
 
@@ -63,22 +64,16 @@ A Collection of Low Level Vision Research Groups
 # Switzerland(瑞士)
 - [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
 
-# United Kingdom(英国)
-
-- [VGG-Oxford](https://www.robots.ox.ac.uk/~vgg/)
 
 # United States(美国)
 
 - [Shree K. Nayar-Columbia University](https://www.cs.columbia.edu/~nayar/)
 - [Hanspeter Pfister-Harvard University](https://vcg.seas.harvard.edu/)
-- [Vishal M Patel-JHU](https://engineering.jhu.edu/vpatel36/)
+- [Vishal M. Patel-JHU](https://engineering.jhu.edu/vpatel36/)
 - [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
 - [Yun Raymond Fu-NEU](http://www1.ece.neu.edu/~yunfu/)
-- [Felix Heide-Princeton](https://www.cs.princeton.edu/~fheide/)
-- [Gordon Wetzstein-Stanford](https://web.stanford.edu/~gordonwz/)
-- [Alexei (Alyosha) Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
-- [Achuta Kadambi-UCLA](https://visual.ee.ucla.edu/)
+- [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
-- [Humphrey Shi-University of Oregon](https://www.shi-labs.com/#page-top)
+- [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
 - [Srinivasa Narasimhan-CMU](https://www.cs.cmu.edu/~srinivas/)
