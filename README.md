@@ -5,6 +5,7 @@ A Collection of Low Level Vision Research Groups
 **Please feel free to star, fork or PR if helpful~**
 
 **收集了国内外做底层视觉相关研究的团队(谷歌学术引用5000+)如下，欢迎star，fork和PR~**
+
 # Canada(加拿大)
 
 - [Zhou Wang-University of Waterloo](https://ece.uwaterloo.ca/~z70wang/)
@@ -13,20 +14,25 @@ A Collection of Low Level Vision Research Groups
 # China(中国)
 
 ### Hong Kong(香港)
+
 - [Rynson W.H. Lau-CityU(刘永雄团队-香港城市大学)](https://www.cs.cityu.edu.hk/~rynson/)
 - [Jiaya Jia-CUHK(贾佳亚团队-香港中文大学)](https://jiaya.me/)
 - [Tien-Tsing Wong-CUHK(黄田津团队-香港中文大学)](http://www.cse.cuhk.edu.hk/~ttwong/)
+- [Jinwei Gu-CUHK(黄田津团队-香港中文大学)](http://www.gujinwei.org/)
 - [Qifeng Chen-HKUST(陈启峰团队-香港科技大学)](https://cqf.io/)
 - [Lei Zhang-PolyU(张磊团队-香港理工大学)](https://www4.comp.polyu.edu.hk/~cslzhang/)
 
 ### Macao(澳门)
+
 - [Chi-Man Pun-UM(潘治文团队-澳门大学)](https://www.cis.um.edu.mo/~cmpun/)
 
 ### Mainland(大陆)
+
 - [Mai Xu-BUAA(徐迈团队-北京航空航天大学)](http://www.buaamc2.net/index.html)
 - [Risheng Liu-DLUT(刘日升团队-大连理工大学)](https://rsliu.tech/)
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
 - [Ming-Ming Cheng-NKU(程明明团队-南开大学)](https://mmcheng.net/)
+- [Chongyi Li-NKU(李重仪团队-南开大学)](https://li-chongyi.github.io/)
 - [Boxin Shi-PKU(施柏鑫团队-北京大学)](https://ci.idm.pku.edu.cn/index.htm)
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Jiaying Liu-PKU(刘家瑛团队-北京大学)](http://39.96.165.147/struct.html)
@@ -39,8 +45,10 @@ A Collection of Low Level Vision Research Groups
 - [Weisheng Dong-XDU(董伟生团队-西安电子科技大学)](https://see.xidian.edu.cn/faculty/wsdong/)
 - [Deyu Meng-XJTU(孟德宇团队-西安交通大学)](https://gr.xjtu.edu.cn/web/dymeng)
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
+- [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
 
 ### Taiwan(台湾)
+
 - [Chia-Wen Lin-NTHU(林嘉文团队-国立清华大学)](https://www.ee.nthu.edu.tw/cwlin/)
 
 
@@ -48,6 +56,10 @@ A Collection of Low Level Vision Research Groups
 # Germany(德国)
 
 - [Radu Timofte-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
+
+# Japan(日本)
+
+- [Edgar Simo-Serra-Waseda University](https://esslab.jp/~ess/en/)
 
 # Singapore(新加坡)
 
@@ -62,6 +74,7 @@ A Collection of Low Level Vision Research Groups
 - [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
 
 # Switzerland(瑞士)
+
 - [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
 
 
