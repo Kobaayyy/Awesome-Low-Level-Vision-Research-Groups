@@ -46,6 +46,7 @@ A Collection of Low Level Vision Research Groups
 - [Deyu Meng-XJTU(孟德宇团队-西安交通大学)](https://gr.xjtu.edu.cn/web/dymeng)
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
 - [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
+- [Dong Liu-USTC(刘东团队-中国科学技术大学)](https://faculty.ustc.edu.cn/dongeliu/)
 
 ### Taiwan(台湾)
 
@@ -76,6 +77,9 @@ A Collection of Low Level Vision Research Groups
 # Switzerland(瑞士)
 
 - [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
+
+# United Kingdom(英国)
+- [David Bull-University of Bristol](https://david-bull.github.io/)
 
 
 # United States(美国)
