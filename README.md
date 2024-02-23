@@ -93,6 +93,7 @@ A Collection of Low Level Vision Research Groups
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
+- [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
 - [Srinivasa Narasimhan-CMU](https://www.cs.cmu.edu/~srinivas/)
 
 # Related Collections(相关底层视觉整理)：
