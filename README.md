@@ -40,7 +40,7 @@ A Collection of Low Level Vision Research Groups
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Jiaying Liu-PKU(刘家瑛团队-北京大学)](http://39.96.165.147/struct.html)
 - [Chao Dong-SIAT(董超团队-中科院深圳先进技术研究院)](http://xpixel.group/index.html)
-- [Yulun Zhang-SJTU(张宇伦-上海交通大学)](https://yulunzhang.com/)
+- [Yulun Zhang-SJTU(张宇伦团队-上海交通大学)](https://yulunzhang.com/)
 - [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
 - [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
