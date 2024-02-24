@@ -8,8 +8,8 @@ A Collection of Low Level Vision Research Groups
 
 # Canada(加拿大)
 
-- [Zhou Wang-University of Waterloo](https://ece.uwaterloo.ca/~z70wang/)
 - [Michael S. Brown-YorkU](https://www.eecs.yorku.ca/~mbrown/)
+- [Zhou Wang-University of Waterloo](https://ece.uwaterloo.ca/~z70wang/)
 
 # China(中国)
 
@@ -30,23 +30,26 @@ A Collection of Low Level Vision Research Groups
 
 - [Mai Xu-BUAA(徐迈团队-北京航空航天大学)](http://www.buaamc2.net/index.html)
 - [Risheng Liu-DLUT(刘日升团队-大连理工大学)](https://rsliu.tech/)
+- [Junjun Jiang-HIT(江俊君团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/jiangjunjun)
+- [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
+- [Yuming Fang-JUFE(方玉明团队-江西财经大学)](http://sim.jxufe.cn/JDMKL/ymfang_EN.html)
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
 - [Ming-Ming Cheng-NKU(程明明团队-南开大学)](https://mmcheng.net/)
 - [Chongyi Li-NKU(李重仪团队-南开大学)](https://li-chongyi.github.io/)
 - [Boxin Shi-PKU(施柏鑫团队-北京大学)](https://ci.idm.pku.edu.cn/index.htm)
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Jiaying Liu-PKU(刘家瑛团队-北京大学)](http://39.96.165.147/struct.html)
-- [Junjun Jiang-HIT(江俊君团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/jiangjunjun)
-- [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
-- [Yuming Fang-JUFE(方玉明团队-江西财经大学)](http://sim.jxufe.cn/JDMKL/ymfang_EN.html)
 - [Chao Dong-SIAT(董超团队-中科院深圳先进技术研究院)](http://xpixel.group/index.html)
+- [Yulun Zhang-SJTU(张宇伦-上海交通大学)](https://yulunzhang.com/)
 - [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
+- [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
+- [Dong Liu-USTC(刘东团队-中国科学技术大学)](https://faculty.ustc.edu.cn/dongeliu/)
 - [Weisheng Dong-XDU(董伟生团队-西安电子科技大学)](https://see.xidian.edu.cn/faculty/wsdong/)
 - [Deyu Meng-XJTU(孟德宇团队-西安交通大学)](https://gr.xjtu.edu.cn/web/dymeng)
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
-- [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
-- [Dong Liu-USTC(刘东团队-中国科学技术大学)](https://faculty.ustc.edu.cn/dongeliu/)
+
+
 
 ### Taiwan(台湾)
 
@@ -84,17 +87,17 @@ A Collection of Low Level Vision Research Groups
 
 # United States(美国)
 
+- [Srinivasa Narasimhan-CMU](https://www.cs.cmu.edu/~srinivas/)
 - [Shree K. Nayar-Columbia University](https://www.cs.columbia.edu/~nayar/)
+- [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 - [Hanspeter Pfister-Harvard University](https://vcg.seas.harvard.edu/)
 - [Vishal M. Patel-JHU](https://engineering.jhu.edu/vpatel36/)
 - [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
 - [Yun Raymond Fu-NEU](http://www1.ece.neu.edu/~yunfu/)
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
-- [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
 - [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
-- [Srinivasa Narasimhan-CMU](https://www.cs.cmu.edu/~srinivas/)
 
 # Related Collections(相关底层视觉整理)：
 
