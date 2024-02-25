@@ -99,8 +99,10 @@ A Collection of Low Level Vision Research Groups
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
 - [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
 
-# Related Collections(相关底层视觉整理)：
+# Related Collections(相关整理)：
 
 - [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
 - [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
+- [Awesome-AIGC-Research-Groups](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups)
+
