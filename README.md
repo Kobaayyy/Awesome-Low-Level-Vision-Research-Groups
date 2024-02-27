@@ -74,6 +74,7 @@ A Collection of Low Level Vision Research Groups
 # South Korea(韩国)
 
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
+- [Munchurl Kim-KAIST](https://www.viclab.kaist.ac.kr/)
 - [Chang-Su Kim-Korea University](http://mcl.korea.ac.kr/)
 - [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
 
@@ -101,7 +102,7 @@ A Collection of Low Level Vision Research Groups
 
 # Related Collections(相关整理)：
 
-- [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
+- [Awesome-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision)
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
 - [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
 - [Awesome-AIGC-Research-Groups](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups)
