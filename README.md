@@ -42,6 +42,7 @@ A Collection of Low Level Vision Research Groups
 - [Chao Dong-SIAT(董超团队-中科院深圳先进技术研究院)](http://xpixel.group/index.html)
 - [Yulun Zhang-SJTU(张宇伦团队-上海交通大学)](https://yulunzhang.com/)
 - [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
+- [Xintao Wang-Tencent(王鑫涛团队-腾讯公司)](https://xinntao.github.io/)
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
 - [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
 - [Dong Liu-USTC(刘东团队-中国科学技术大学)](https://faculty.ustc.edu.cn/dongeliu/)
