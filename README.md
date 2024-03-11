@@ -65,6 +65,7 @@ A Collection of Low Level Vision Research Groups
 # Japan(日本)
 
 - [Edgar Simo-Serra-Waseda University](https://esslab.jp/~ess/en/)
+- [Kiyoharu Aizawa-UTokyo](https://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml)
 
 # Singapore(新加坡)
 
