@@ -46,6 +46,7 @@ A Collection of Low Level Vision Research Groups
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
 - [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
 - [Dong Liu-USTC(刘东团队-中国科学技术大学)](https://faculty.ustc.edu.cn/dongeliu/)
+- [Jiayi Ma-WHU(马佳义团队-武汉大学)](http://mvp.whu.edu.cn/jiayima/)
 - [Weisheng Dong-XDU(董伟生团队-西安电子科技大学)](https://see.xidian.edu.cn/faculty/wsdong/)
 - [Deyu Meng-XJTU(孟德宇团队-西安交通大学)](https://gr.xjtu.edu.cn/web/dymeng)
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
