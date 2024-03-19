@@ -36,6 +36,7 @@ A Collection of Low Level Vision Research Groups
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
 - [Ming-Ming Cheng-NKU(程明明团队-南开大学)](https://mmcheng.net/)
 - [Chongyi Li-NKU(李重仪团队-南开大学)](https://li-chongyi.github.io/)
+- [Yanning Zhang-NPU(张艳宁团队-西北工业大学)](https://teacher.nwpu.edu.cn/ynzhang.html)
 - [Boxin Shi-PKU(施柏鑫团队-北京大学)](https://ci.idm.pku.edu.cn/index.htm)
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Jiaying Liu-PKU(刘家瑛团队-北京大学)](http://39.96.165.147/struct.html)
