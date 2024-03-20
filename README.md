@@ -19,6 +19,7 @@ A Collection of Low Level Vision Research Groups
 - [Jiaya Jia-CUHK(贾佳亚团队-香港中文大学)](https://jiaya.me/)
 - [Tien-Tsing Wong-CUHK(黄田津团队-香港中文大学)](http://www.cse.cuhk.edu.hk/~ttwong/)
 - [Jinwei Gu-CUHK(顾金伟团队-香港中文大学)](http://www.gujinwei.org/)
+- [Dong Xu-HKU(徐东团队-香港大学)](https://www.cs.hku.hk/people/academic-staff/dongxu)
 - [Qifeng Chen-HKUST(陈启峰团队-香港科技大学)](https://cqf.io/)
 - [Lei Zhang-PolyU(张磊团队-香港理工大学)](https://www4.comp.polyu.edu.hk/~cslzhang/)
 
