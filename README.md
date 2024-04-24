@@ -88,6 +88,11 @@ A Collection of Low Level Vision Research Groups
 
 - [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
 
+# Turkey(土耳其)
+
+- [A. Murat Tekalp-KU](https://mysite.ku.edu.tr/mtekalp/)
+
+
 # United Kingdom(英国)
 - [David Bull-University of Bristol](https://david-bull.github.io/)
 
