@@ -16,6 +16,7 @@ A Collection of Low Level Vision Research Groups
 ### Hong Kong(香港)
 
 - [Rynson W.H. Lau-CityU(刘永雄团队-香港城市大学)](https://www.cs.cityu.edu.hk/~rynson/)
+- [Shiqi Wang-CityU(王诗淇团队-香港城市大学)](https://www.cs.cityu.edu.hk/~shiqwang/index.html)
 - [Jiaya Jia-CUHK(贾佳亚团队-香港中文大学)](https://jiaya.me/)
 - [Tien-Tsing Wong-CUHK(黄田津团队-香港中文大学)](http://www.cse.cuhk.edu.hk/~ttwong/)
 - [Jinwei Gu-CUHK(顾金伟团队-香港中文大学)](http://www.gujinwei.org/)
