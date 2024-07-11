@@ -75,6 +75,11 @@ A Collection of Low Level Vision Research Groups
 
 - [Radu Timofte-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
 
+# India(印度)
+
+- [A. N. Rajagopalan-IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/)
+
+  
 # Japan(日本)
 
 - [Edgar Simo-Serra-Waseda University](https://esslab.jp/~ess/en/)
