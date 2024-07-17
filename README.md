@@ -31,6 +31,7 @@ A Collection of Low Level Vision Research Groups
 - [Qifeng Chen-HKUST(陈启峰团队-香港科技大学)](https://cqf.io/)
 - [Lei Zhu-HKUST(朱磊团队-香港科技大学)](https://sites.google.com/site/indexlzhu/home)
 - [Lei Zhang-PolyU(张磊团队-香港理工大学)](https://www4.comp.polyu.edu.hk/~cslzhang/)
+- [Hongwei Yong-PolyU(雍宏巍-香港理工大学)](https://sites.google.com/view/yonghongwei-homepage)
 
 ### Macao(澳门)
 
