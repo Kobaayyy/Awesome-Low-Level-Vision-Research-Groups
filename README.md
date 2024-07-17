@@ -65,6 +65,7 @@ A Collection of Low Level Vision Research Groups
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
 - [Yanyun Qu-XMU(曲延云团队-厦门大学)](https://quyanyun.xmu.edu.cn/)
 - [Xiaojie GUo-TJU(郭晓杰团队-天津大学)](https://sites.google.com/view/xjguo)
+- [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
 
 
 
