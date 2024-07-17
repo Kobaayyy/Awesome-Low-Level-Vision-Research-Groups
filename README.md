@@ -40,6 +40,7 @@ A Collection of Low Level Vision Research Groups
 
 - [Mai Xu-BUAA(徐迈团队-北京航空航天大学)](http://www.buaamc2.net/index.html)
 - [Risheng Liu-DLUT(刘日升团队-大连理工大学)](https://rsliu.tech/)
+- [Yuan Xie-ECNU(谢源团队-华东师范大学)](https://faculty.ecnu.edu.cn/_s16/xy2_11342/main.psp)
 - [Junjun Jiang-HIT(江俊君团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/jiangjunjun)
 - [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
 - [Yuming Fang-JUFE(方玉明团队-江西财经大学)](http://sim.jxufe.cn/JDMKL/ymfang_EN.html)
