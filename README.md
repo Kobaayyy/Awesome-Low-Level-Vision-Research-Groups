@@ -65,8 +65,9 @@ A Collection of Low Level Vision Research Groups
 - [Deyu Meng-XJTU(孟德宇团队-西安交通大学)](https://gr.xjtu.edu.cn/web/dymeng)
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
 - [Yanyun Qu-XMU(曲延云团队-厦门大学)](https://quyanyun.xmu.edu.cn/)
-- [Xiaojie GUo-TJU(郭晓杰团队-天津大学)](https://sites.google.com/view/xjguo)
+- [Xiaojie Guo-TJU(郭晓杰团队-天津大学)](https://sites.google.com/view/xjguo)
 - [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
+- [Dongwei Ren-HIT(任冬伟-哈尔滨工业大学)](https://csdwren.github.io/)
 
 
 
