@@ -114,6 +114,7 @@ A Collection of Low Level Vision Research Groups
 
 # United Kingdom(英国)
 - [David Bull-University of Bristol](https://david-bull.github.io/)
+- [Greg Slabaugh-QMUL](https://eecs.qmul.ac.uk/~gslabaugh/)
 
 
 # United States(美国)
