@@ -83,6 +83,10 @@ A Collection of Low Level Vision Research Groups
 
 - [A. N. Rajagopalan-IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/)
 
+# Israel(以色列)
+
+- [Tali Treibitz-UOH](https://viseaon.haifa.ac.il/)
+
   
 # Japan(日本)
 
