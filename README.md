@@ -45,6 +45,7 @@ A Collection of Low Level Vision Research Groups
 - [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
 - [Yuming Fang-JUFE(方玉明团队-江西财经大学)](http://sim.jxufe.cn/JDMKL/ymfang_EN.html)
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
+- [Jian Yang-NJUST(杨健团队-南京理工大学)](http://202.119.85.163/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=)
 - [Ming-Ming Cheng-NKU(程明明团队-南开大学)](https://mmcheng.net/)
 - [Chongyi Li-NKU(李重仪团队-南开大学)](https://li-chongyi.github.io/)
 - [Yanning Zhang-NPU(张艳宁团队-西北工业大学)](https://teacher.nwpu.edu.cn/ynzhang.html)
