@@ -35,6 +35,7 @@ A Collection of Low Level Vision Research Groups
 ### Macao(澳门)
 
 - [Chi-Man Pun-UM(潘治文团队-澳门大学)](https://www.cis.um.edu.mo/~cmpun/)
+- [Jiantao Zhou-UM(周建涛团队-澳门大学)](https://www.fst.um.edu.mo/personal/jtzhou/)
 
 ### Mainland(大陆)
 
