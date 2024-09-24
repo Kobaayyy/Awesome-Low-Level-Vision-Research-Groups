@@ -99,6 +99,7 @@ A Collection of Low Level Vision Research Groups
 
 - [Chen Change Loy-NTU](https://www.mmlab-ntu.com/person/ccloy/index.html)
 - [Weisi Lin-NTU](https://personal.ntu.edu.sg/wslin/Home.html)
+- [Bihan Wen-NTU](https://personal.ntu.edu.sg/bihan.wen/)
 - [Robby T. Tan-NUS](https://tanrobby.github.io/)
 - [Angela Yao-NUS](https://www.comp.nus.edu.sg/~ayao/)
 
