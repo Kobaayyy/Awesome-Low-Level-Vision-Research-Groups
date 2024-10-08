@@ -107,6 +107,7 @@ A Collection of Low Level Vision Research Groups
 
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
 - [Munchurl Kim-KAIST](https://www.viclab.kaist.ac.kr/)
+- [Kuk-Jin Yoon-KAIST](https://vi.kaist.ac.kr/)
 - [Chang-Su Kim-Korea University](http://mcl.korea.ac.kr/)
 - [Sunghyun Cho-POSTECH](https://www.scho.pe.kr/)
 - [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
