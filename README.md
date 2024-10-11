@@ -103,6 +103,7 @@ A Collection of Low Level Vision Research Groups
 
 - [Chen Change Loy-NTU](https://www.mmlab-ntu.com/person/ccloy/index.html)
 - [Weisi Lin-NTU](https://personal.ntu.edu.sg/wslin/Home.html)
+- [Bihan Wen-NTU](https://personal.ntu.edu.sg/bihan.wen/)
 - [Robby T. Tan-NUS](https://tanrobby.github.io/)
 - [Angela Yao-NUS](https://www.comp.nus.edu.sg/~ayao/)
 
@@ -110,6 +111,7 @@ A Collection of Low Level Vision Research Groups
 
 - [Jong Chul Ye-KAIST](https://bispl.weebly.com/professor.html)
 - [Munchurl Kim-KAIST](https://www.viclab.kaist.ac.kr/)
+- [Kuk-Jin Yoon-KAIST](https://vi.kaist.ac.kr/)
 - [Chang-Su Kim-Korea University](http://mcl.korea.ac.kr/)
 - [Sunghyun Cho-POSTECH](https://www.scho.pe.kr/)
 - [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
