@@ -31,6 +31,7 @@ A Collection of Low Level Vision Research Groups
 - [Qifeng Chen-HKUST(陈启峰团队-香港科技大学)](https://cqf.io/)
 - [Lei Zhu-HKUST(朱磊团队-香港科技大学)](https://sites.google.com/site/indexlzhu/home)
 - [Lei Zhang-PolyU(张磊团队-香港理工大学)](https://www4.comp.polyu.edu.hk/~cslzhang/)
+- [Hongwei Yong-PolyU(雍宏巍-香港理工大学)](https://sites.google.com/view/yonghongwei-homepage)
 
 ### Macao(澳门)
 
@@ -67,6 +68,9 @@ A Collection of Low Level Vision Research Groups
 - [Deyu Meng-XJTU(孟德宇团队-西安交通大学)](https://gr.xjtu.edu.cn/web/dymeng)
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
 - [Yanyun Qu-XMU(曲延云团队-厦门大学)](https://quyanyun.xmu.edu.cn/)
+- [Xiaojie Guo-TJU(郭晓杰团队-天津大学)](https://sites.google.com/view/xjguo)
+- [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
+- [Dongwei Ren-HIT(任冬伟-哈尔滨工业大学)](https://csdwren.github.io/)
 
 
 
