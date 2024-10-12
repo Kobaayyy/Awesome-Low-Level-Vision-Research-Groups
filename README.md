@@ -31,7 +31,6 @@ A Collection of Low Level Vision Research Groups
 - [Qifeng Chen-HKUST(陈启峰团队-香港科技大学)](https://cqf.io/)
 - [Lei Zhu-HKUST(朱磊团队-香港科技大学)](https://sites.google.com/site/indexlzhu/home)
 - [Lei Zhang-PolyU(张磊团队-香港理工大学)](https://www4.comp.polyu.edu.hk/~cslzhang/)
-- [Hongwei Yong-PolyU(雍宏巍-香港理工大学)](https://sites.google.com/view/yonghongwei-homepage)
 
 ### Macao(澳门)
 
@@ -46,6 +45,8 @@ A Collection of Low Level Vision Research Groups
 - [Junjun Jiang-HIT(江俊君团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/jiangjunjun)
 - [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
 - [Yuming Fang-JUFE(方玉明团队-江西财经大学)](http://sim.jxufe.cn/JDMKL/ymfang_EN.html)
+- [Xintao Wang-Kuaishou(王鑫涛团队-快手公司)](https://xinntao.github.io/)
+- [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
 - [Jian Yang-NJUST(杨健团队-南京理工大学)](http://202.119.85.163/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=)
 - [Ming-Ming Cheng-NKU(程明明团队-南开大学)](https://mmcheng.net/)
@@ -58,7 +59,7 @@ A Collection of Low Level Vision Research Groups
 - [Yulun Zhang-SJTU(张宇伦团队-上海交通大学)](https://yulunzhang.com/)
 - [Guangtao Zhai-SJTU(翟广涛团队-上海交通大学)](https://multimedia.sjtu.edu.cn/)
 - [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
-- [Xintao Wang-Tencent(王鑫涛团队-腾讯公司)](https://xinntao.github.io/)
+- [Xiaojie Guo-TJU(郭晓杰团队-天津大学)](https://sites.google.com/view/xjguo)
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
 - [Houqiang Li-USTC(李厚强团队-中国科学技术大学)](http://staff.ustc.edu.cn/~lihq/en/)
 - [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
@@ -68,10 +69,6 @@ A Collection of Low Level Vision Research Groups
 - [Deyu Meng-XJTU(孟德宇团队-西安交通大学)](https://gr.xjtu.edu.cn/web/dymeng)
 - [Xinghao Ding-XMU(丁兴号团队-厦门大学)](https://xmu-smartdsp.github.io/)
 - [Yanyun Qu-XMU(曲延云团队-厦门大学)](https://quyanyun.xmu.edu.cn/)
-- [Xiaojie Guo-TJU(郭晓杰团队-天津大学)](https://sites.google.com/view/xjguo)
-- [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
-- [Dongwei Ren-HIT(任冬伟-哈尔滨工业大学)](https://csdwren.github.io/)
-
 
 
 
@@ -91,6 +88,7 @@ A Collection of Low Level Vision Research Groups
 
 # Israel(以色列)
 
+- [Michael Elad-Technion](https://elad.cs.technion.ac.il/)
 - [Tali Treibitz-UOH](https://viseaon.haifa.ac.il/)
 
   
@@ -115,6 +113,7 @@ A Collection of Low Level Vision Research Groups
 - [Chang-Su Kim-Korea University](http://mcl.korea.ac.kr/)
 - [Sunghyun Cho-POSTECH](https://www.scho.pe.kr/)
 - [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
+- [Nam Ik Cho-SNU](http://ispl.snu.ac.kr/xe/)
 
 # Switzerland(瑞士)
 
@@ -136,7 +135,9 @@ A Collection of Low Level Vision Research Groups
 
 - [Srinivasa Narasimhan-CMU](https://www.cs.cmu.edu/~srinivas/)
 - [Shree K. Nayar-Columbia University](https://www.cs.columbia.edu/~nayar/)
+- [Sina Farsiu-Duke](https://people.duke.edu/~sf59/)
 - [Humphrey Shi-Georgia Tech](https://www.shi-labs.com/#page-top)
+- [Peyman Milanfar-Google](https://sites.google.com/view/milanfarhome/)
 - [Hanspeter Pfister-Harvard University](https://vcg.seas.harvard.edu/)
 - [Vishal M. Patel-JHU](https://engineering.jhu.edu/vpatel36/)
 - [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
