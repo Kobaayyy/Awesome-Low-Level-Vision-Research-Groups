@@ -15,8 +15,9 @@ A Collection of Low Level Vision Research Groups
 
 # Canada(加拿大)
 
+- [Xiaolin Wu-McMaster University](https://www.ece.mcmaster.ca/~xwu/)
+- [Zhou Wang-UWaterloo](https://ece.uwaterloo.ca/~z70wang/)
 - [Michael S. Brown-YorkU](https://www.eecs.yorku.ca/~mbrown/)
-- [Zhou Wang-University of Waterloo](https://ece.uwaterloo.ca/~z70wang/)
 
 # China(中国)
 
@@ -40,6 +41,7 @@ A Collection of Low Level Vision Research Groups
 
 ### Mainland(大陆)
 
+- [Yao Zhao-BJTU(赵耀团队-北京交通大学)](http://mepro.bjtu.edu.cn/zhaoyao/index.htm)
 - [Mai Xu-BUAA(徐迈团队-北京航空航天大学)](http://www.buaamc2.net/index.html)
 - [Risheng Liu-DLUT(刘日升团队-大连理工大学)](https://rsliu.tech/)
 - [Yuan Xie-ECNU(谢源团队-华东师范大学)](https://faculty.ecnu.edu.cn/_s16/xy2_11342/main.psp)
@@ -56,9 +58,11 @@ A Collection of Low Level Vision Research Groups
 - [Boxin Shi-PKU(施柏鑫团队-北京大学)](https://ci.idm.pku.edu.cn/index.htm)
 - [Jian Zhang-PKU(张健团队-北京大学)](https://villa.jianzhang.tech/#top)
 - [Jiaying Liu-PKU(刘家瑛团队-北京大学)](http://39.96.165.147/struct.html)
+- [Ling-Yu Duan-PKU(段凌宇团队-北京大学)](https://cs.pku.edu.cn/info/1063/1617.htm)
 - [Chao Dong-SIAT(董超团队-中科院深圳先进技术研究院)](http://xpixel.group/index.html)
 - [Yulun Zhang-SJTU(张宇伦团队-上海交通大学)](https://yulunzhang.com/)
 - [Guangtao Zhai-SJTU(翟广涛团队-上海交通大学)](https://multimedia.sjtu.edu.cn/)
+- [Weiyao Lin-SJTU(林巍峣团队-上海交通大学)](https://weiyaolin.github.io/)
 - [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
 - [Xiaojie Guo-TJU(郭晓杰团队-天津大学)](https://sites.google.com/view/xjguo)
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
