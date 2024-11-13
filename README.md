@@ -48,6 +48,7 @@ A Collection of Low Level Vision Research Groups
 - [Yuan Xie-ECNU(谢源团队-华东师范大学)](https://faculty.ecnu.edu.cn/_s16/xy2_11342/main.psp)
 - [Junjun Jiang-HIT(江俊君团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/jiangjunjun)
 - [Wangmeng Zuo-HIT(左旺孟团队-哈尔滨工业大学)](http://homepage.hit.edu.cn/wangmengzuo)
+- [Hongxun Yao-HIT(姚鸿勋团队-哈尔滨工业大学)](https://vilab.hit.edu.cn/index.html)
 - [Yuming Fang-JUFE(方玉明团队-江西财经大学)](http://sim.jxufe.cn/JDMKL/ymfang_EN.html)
 - [Xintao Wang-Kuaishou(王鑫涛团队-快手公司)](https://xinntao.github.io/)
 - [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
@@ -89,6 +90,7 @@ A Collection of Low Level Vision Research Groups
 
 # Germany(德国)
 
+- [Karol Myszkowski-MPI](https://people.mpi-inf.mpg.de/~karol/)
 - [Radu Timofte-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
 
 # India(印度)
