@@ -52,6 +52,7 @@ A Collection of Low Level Vision Research Groups
 - [Yuming Fang-JUFE(方玉明团队-江西财经大学)](http://sim.jxufe.cn/JDMKL/ymfang_EN.html)
 - [Xintao Wang-Kuaishou(王鑫涛团队-快手公司)](https://xinntao.github.io/)
 - [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
+- [Zhan Ma-NJU(马展团队-南京大学)](https://vision.nju.edu.cn/)
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
 - [Jian Yang-NJUST(杨健团队-南京理工大学)](http://202.119.85.163/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=)
 - [Ming-Ming Cheng-NKU(程明明团队-南开大学)](https://mmcheng.net/)
@@ -102,7 +103,11 @@ A Collection of Low Level Vision Research Groups
 - [Michael Elad-Technion](https://elad.cs.technion.ac.il/)
 - [Tali Treibitz-UOH](https://viseaon.haifa.ac.il/)
 
-  
+# Italy(意大利)
+
+- [Florian Jug-HT](https://humantechnopole.it/en/people/florian-jug/)
+- [Raimondo Schettini-UNIMIB](http://www.ivl.disco.unimib.it/)
+    
 # Japan(日本)
 
 - [Edgar Simo-Serra-Waseda University](https://esslab.jp/~ess/en/)
