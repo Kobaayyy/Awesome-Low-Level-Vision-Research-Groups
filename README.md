@@ -111,6 +111,7 @@ A Collection of Low Level Vision Research Groups
 # Japan(日本)
 
 - [Edgar Simo-Serra-Waseda University](https://esslab.jp/~ess/en/)
+- [Masatoshi Okutomi-TIT](http://www.ok.sc.e.titech.ac.jp/mem/mxo/okutomi.html)
 - [Kiyoharu Aizawa-UTokyo](https://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml)
 
 # Singapore(新加坡)
@@ -159,6 +160,7 @@ A Collection of Low Level Vision Research Groups
 - [Vishal M. Patel-JHU](https://engineering.jhu.edu/vpatel36/)
 - [William T. Freeman-MIT](http://billf.mit.edu/about/bio)
 - [Yun Raymond Fu-NEU](http://www1.ece.neu.edu/~yunfu/)
+- [Felix Heide-Princeton University](https://www.cs.princeton.edu/~fheide/)
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
