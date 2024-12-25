@@ -139,6 +139,7 @@ A Collection of Low Level Vision Research Groups
 
 - [Sabine Süsstrunk-EPFL](https://www.epfl.ch/labs/ivrl/)
 - [Luc Van Gool-ETH Zurich](https://vision.ee.ethz.ch/)
+- [Paolo Favaro-UniBe](https://www.cvg.unibe.ch/home/)
 
 # Turkey(土耳其)
 
