@@ -54,6 +54,7 @@ A Collection of Low Level Vision Research Groups
 - [Xintao Wang-Kuaishou(王鑫涛团队-快手公司)](https://xinntao.github.io/)
 - [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
 - [Zhan Ma-NJU(马展团队-南京大学)](https://vision.nju.edu.cn/)
+- [Ying Tai-NJU(邰颖团队-南京大学)](https://tyshiwo.github.io/index.html)
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
 - [Jian Yang-NJUST(杨健团队-南京理工大学)](http://202.119.85.163/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=)
 - [Ming-Ming Cheng-NKU(程明明团队-南开大学)](https://mmcheng.net/)
@@ -71,6 +72,7 @@ A Collection of Low Level Vision Research Groups
 - [Weiyao Lin-SJTU(林巍峣团队-上海交通大学)](https://weiyaolin.github.io/)
 - [Wenqi Ren-SYSU(任文琦团队-中山大学)](https://sites.google.com/view/wenqiren/homepage)
 - [Yujiu Yang-THU(杨余久团队-清华大学)](https://sites.google.com/view/iigroup-thu/home)
+- [Wenming Yang-THU(杨文明团队-清华大学)](https://www.sigs.tsinghua.edu.cn/ywm/main.htm)
 - [Xiaojie Guo-TJU(郭晓杰团队-天津大学)](https://sites.google.com/view/xjguo)
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
 - [Shuaicheng Liu-UESTC(刘帅成团队-电子科技大学)](http://www.liushuaicheng.org/)
@@ -167,6 +169,7 @@ A Collection of Low Level Vision Research Groups
 - [Felix Heide-Princeton University](https://www.cs.princeton.edu/~fheide/)
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
+- [Stephan Mandt-UC Irvine](https://www.stephanmandt.com/)
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
 - [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
 
