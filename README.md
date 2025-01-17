@@ -65,6 +65,7 @@ A Collection of Low Level Vision Research Groups
 - [Jiaying Liu-PKU(刘家瑛团队-北京大学)](http://39.96.165.147/struct.html)
 - [Ling-Yu Duan-PKU(段凌宇团队-北京大学)](https://cs.pku.edu.cn/info/1063/1617.htm)
 - [Xi Peng-SCU(彭玺团队-四川大学)](https://pengxi.me/)
+- [Hui Xue-SEU(薛晖团队-东南大学)](https://palm.seu.edu.cn/hxue/)
 - [Chao Dong-SIAT(董超团队-中科院深圳先进技术研究院)](http://xpixel.group/index.html)
 - [Jianzhuang Liu-SIAT(刘健庄团队-中科院深圳先进技术研究院)](https://people.ucas.ac.cn/~jzliu)
 - [Yulun Zhang-SJTU(张宇伦团队-上海交通大学)](https://yulunzhang.com/)
