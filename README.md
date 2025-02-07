@@ -43,7 +43,9 @@ A Collection of Low Level Vision Research Groups
 
 ### Mainland(大陆)
 
+- [Ying Fu-BIT(付莹团队-北京理工大学)](https://ying-fu.github.io/)
 - [Yao Zhao-BJTU(赵耀团队-北京交通大学)](http://mepro.bjtu.edu.cn/zhaoyao/index.htm)
+- [Hua Huang-BNU(黄华团队-北京师范大学)](https://vmcl.bnu.edu.cn/group/teacher/dcdaea79b5e54b75b532795109a85a34.htm)
 - [Mai Xu-BUAA(徐迈团队-北京航空航天大学)](http://www.buaamc2.net/index.html)
 - [Risheng Liu-DLUT(刘日升团队-大连理工大学)](https://rsliu.tech/)
 - [Yuan Xie-ECNU(谢源团队-华东师范大学)](https://faculty.ecnu.edu.cn/_s16/xy2_11342/main.psp)
