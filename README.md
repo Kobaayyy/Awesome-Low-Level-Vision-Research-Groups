@@ -99,6 +99,7 @@ A Collection of Low Level Vision Research Groups
 
 # Germany(德国)
 
+- [Thomas Wiegand-HHI](https://iphome.hhi.de/wiegand/)
 - [Karol Myszkowski-MPI](https://people.mpi-inf.mpg.de/~karol/)
 - [Radu Timofte-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
 
