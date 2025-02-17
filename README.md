@@ -57,6 +57,7 @@ A Collection of Low Level Vision Research Groups
 - [Kai Zhang-NJU(张凯团队-南京大学)](https://cszn.github.io/)
 - [Zhan Ma-NJU(马展团队-南京大学)](https://vision.nju.edu.cn/)
 - [Ying Tai-NJU(邰颖团队-南京大学)](https://tyshiwo.github.io/index.html)
+- [Tong Lu-NJU(路通团队-南京大学)](https://cs.nju.edu.cn/lutong/index.htm)
 - [Jinshan Pan-NJUST(潘金山团队-南京理工大学)](https://jspan.github.io/)
 - [Jian Yang-NJUST(杨健团队-南京理工大学)](http://202.119.85.163/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=)
 - [Ming-Ming Cheng-NKU(程明明团队-南开大学)](https://mmcheng.net/)
