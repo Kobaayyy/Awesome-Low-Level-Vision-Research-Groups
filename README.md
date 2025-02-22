@@ -100,6 +100,7 @@ A Collection of Low Level Vision Research Groups
 
 # Germany(德国)
 
+- [André Kaup-FAU](https://www.lms.tf.fau.eu/person/kaup-andre/)
 - [Thomas Wiegand-HHI](https://iphome.hhi.de/wiegand/)
 - [Karol Myszkowski-MPI](https://people.mpi-inf.mpg.de/~karol/)
 - [Radu Timofte-University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
@@ -177,6 +178,7 @@ A Collection of Low Level Vision Research Groups
 - [Alexei A. Efros-UC Berkeley](https://people.eecs.berkeley.edu/~efros/)
 - [Ming-Hsuan Yang-UC Merced](https://faculty.ucmerced.edu/mhyang/)
 - [Stephan Mandt-UC Irvine](https://www.stephanmandt.com/)
+- [C.-C. Jay Kuo-USC](https://mcl.usc.edu/)
 - [Alan Bovik-UT-Austin](https://live.ece.utexas.edu/index.php)
 - [Zhangyang (Atlas) Wang-UT-Austin](https://vita-group.github.io/)
 
