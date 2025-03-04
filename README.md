@@ -143,6 +143,7 @@ A Collection of Low Level Vision Research Groups
 - [Sunghyun Cho-POSTECH](https://www.scho.pe.kr/)
 - [Kyoung Mu Lee-SNU](https://cv.snu.ac.kr/)
 - [Nam Ik Cho-SNU](http://ispl.snu.ac.kr/xe/)
+- [Jaejun Yoo-UNIST](https://sites.google.com/view/jaejunyoo)
 
 # Switzerland(瑞士)
 
