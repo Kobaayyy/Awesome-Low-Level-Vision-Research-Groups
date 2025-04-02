@@ -79,6 +79,7 @@ A Collection of Low Level Vision Research Groups
 - [Wenming Yang-THU(杨文明团队-清华大学)](https://www.sigs.tsinghua.edu.cn/ywm/main.htm)
 - [Xiaojie Guo-TJU(郭晓杰团队-天津大学)](https://sites.google.com/view/xjguo)
 - [Shuhang Gu-UESTC(顾舒航团队-电子科技大学)](https://shuhanggu.github.io/)
+- [Ce Zhu-UESTC(朱策团队-电子科技大学)](https://www.avc2-lab.net/~eczhu/)
 - [Shuaicheng Liu-UESTC(刘帅成团队-电子科技大学)](http://www.liushuaicheng.org/)
 - [Houqiang Li-USTC(李厚强团队-中国科学技术大学)](http://staff.ustc.edu.cn/~lihq/en/)
 - [Zhiwei Xiong-USTC(熊志伟团队-中国科学技术大学)](http://staff.ustc.edu.cn/~zwxiong/)
