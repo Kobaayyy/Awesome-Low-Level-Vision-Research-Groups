@@ -34,6 +34,7 @@ A Collection of Low Level Vision Research Groups
 - [Jinwei Gu-CUHK(顾金伟团队-香港中文大学)](http://www.gujinwei.org/)
 - [Tianfan Xue-CUHK(薛天帆团队-香港中文大学)](https://tianfan.info/)
 - [Dong Xu-HKU(徐东团队-香港大学)](https://www.cs.hku.hk/people/academic-staff/dongxu)
+- [Kenneth Wong-HKU(黄君义团队-香港大学)](https://i.cs.hku.hk/~kykwong/)
 - [Qifeng Chen-HKUST(陈启峰团队-香港科技大学)](https://cqf.io/)
 - [Lei Zhu-HKUST(朱磊团队-香港科技大学)](https://sites.google.com/site/indexlzhu/home)
 - [Lei Zhang-PolyU(张磊团队-香港理工大学)](https://www4.comp.polyu.edu.hk/~cslzhang/)
@@ -128,6 +129,7 @@ A Collection of Low Level Vision Research Groups
 - [Edgar Simo-Serra-Waseda University](https://esslab.jp/~ess/en/)
 - [Masatoshi Okutomi-TIT](http://www.ok.sc.e.titech.ac.jp/mem/mxo/okutomi.html)
 - [Kiyoharu Aizawa-UTokyo](https://www.hal.t.u-tokyo.ac.jp/lab/ja/index_1.xhtml)
+- [Yinqiang Zheng-UTokyo](https://www.ai.u-tokyo.ac.jp/ja/members/yqzheng)
 
 # Singapore(新加坡)
 
